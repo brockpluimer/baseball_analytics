@@ -35,6 +35,7 @@ Output
 * A Rapsodo plot saved as a PNG.
   
 How to Run
+
 Place the script in the same folder as pitch_movement.csv. Then execute the script in R or RStudio terminal by running Rscript rapsodoplot.R.
 
 Note, a pitcher must have at least 3 pitch types to generate a hull. Otherwise the plot will only show a single or two points which can still be helpful when evaluating a pitcher’s performance. 
