@@ -1,4 +1,6 @@
-README for baseball
+:baseball: Hello and welcome baseball fans. It's tiiiiime for some predictive analytics! :baseball:
+
+Below you'll find some handy models I developed. More to come soon.
 
 [Predictive Model for On-Base Percentage](README_bayesbaseball.md)
 
